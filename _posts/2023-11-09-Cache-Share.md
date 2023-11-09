@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 缓存同步组件
+thumbnail-img: /assets/img/redis.jpg
 tags: [功能设计]
 ---
 

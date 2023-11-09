@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 掌纹识别系统
+thumbnail-img: /assets/img/掌纹识别.png
 tags: [项目]
 comments: true
 author: 周清
